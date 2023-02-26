@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Todo App",
+  "description": "Add your todos list to arrange your work",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "img/start-up.png",
+    "32": "img/start-up.png",
+    "48": "img/start-up.png",
+    "128": "img/start-up.png"
+  }
+}
